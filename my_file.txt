@@ -1,2 +1,6 @@
 my first git lab
+<<<<<<< HEAD
 my git lab
+=======
+Work in progress
+>>>>>>> 8d71386 (added my_file.txt)
